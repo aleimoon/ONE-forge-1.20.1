@@ -1,6 +1,6 @@
 {
   "advancements.husbandry.not_quite_soulroots.title": "Tam da Ruh Kökü Sayılmaz",
-  "advancements.husbandry.not_quite_soulroots.description": "Zindanlarda bulunan tohumlardan bir Adamotu yetiştir",
+  "advancements.husbandry.not_quite_soulroots.description": "Zindanlarda bulunan tohumlardan bir Adamotu yetiştirin",
   "subtitles.block.crop_block.fruit_pops": "Meyve yetişti",
 
   "creativetab.oddsnends": "Ivır Zıvır",
@@ -83,8 +83,8 @@
   "block.oddsnends.laco_tile_slab": "Döşeme Lako Basamak",
 
   "block.oddsnends.laco_bean_bag": "Lako Çekirdeği Çuvalı",
-  "block.oddsnends.laco_sorbet_block": "Lako Şerbeti Bloğu",
-  "item.oddsnends.laco_sorbet": "Lako Şerbeti",
+  "block.oddsnends.laco_sorbet_block": "Lakolu Sorbe Bloğu",
+  "item.oddsnends.laco_sorbet": "Lakolu Sorbe",
   "item.oddsnends.laco_slushie": "Lakolu Buzlaş",
 
   "block.oddsnends.algae": "Su Yosunu",
@@ -124,7 +124,7 @@
   "block.oddsnends.manastone_tablet": "Manataşı Tablet",
   "item.oddsnends.manastone_tablet": "Manataşı Tablet",
 
-  "block.oddsnends.shale": "Seyl",
+  "block.oddsnends.shale": "Şeyl",
   "block.oddsnends.shale_bricks": "Cilalı Şeyl Tuğlası",
   "block.oddsnends.shale_brick_stairs": "Cilalı Şeyl Tuğlası Merdiven",
   "block.oddsnends.shale_brick_slab": "Cilalı Şeyl Tuğlası Basamak",
